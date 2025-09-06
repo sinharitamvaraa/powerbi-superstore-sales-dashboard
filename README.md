@@ -45,5 +45,8 @@
    💰 Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.
 
 9. Screenshots
-       Here’s how the interactive Superstore Sales Dashboard looks in Power BI : https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/blob/main/snapshot%20of%20sales%20dashboard%20.jpg
-      Along with the Sales Forecasting Visualization : https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/blob/main/snapshot%20of%20live%20sales%20forecast%20.jpg
+      Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
+      ![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
+      #Along with the sales forecasting visualization in Power BI:  
+      ![Sales Forecasting](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
+
