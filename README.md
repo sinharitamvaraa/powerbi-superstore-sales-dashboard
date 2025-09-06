@@ -7,16 +7,16 @@
    This project delivers an end-to-end Power BI Sales Dashboard designed to analyze and forecast retail superstore performance. The purpose of the dashboard is        to provide decision-makers with actionable insights by tracking KPIs such as sales, profit, orders, and shipping performance across regions, categories, and        customer segments. By integrating advanced data modeling, DAX calculations, and forecasting techniques, the project not only highlights past and present            business performance but also predicts future sales trends. The goal is to showcase how business intelligence and analytics can transform raw data into
    strategic decisions that improve profitability, optimize inventory, and strengthen market competitiveness.
 
-4. 🛠️ Tech Stack & Skills Used
-   The dashboard was built using the following tech stack :
-  -⚡ Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations
-   
-  -📊 DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs
-  -🧹 Data Transformation – Used Power Query for data cleaning and preparation
-  -⏱️ Time Intelligence Functions – Trend analysis and year-over-year/month-over-month comparisons
-  -🔮 Forecasting Tools – Applied Power BI’s built-in forecasting with confidence intervals
-  -🎨 Data Visualization – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity
-  -💼 Business Acumen – Combined retail domain understanding with analytics for actionable insights
+4. 🛠️ Tech Stack & Skills Used  
+   The dashboard was built using the following tech stack:
+
+- ⚡ Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations  
+- 📊 DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs  
+- 🧹 Data Transformation – Used Power Query for data cleaning and preparation  
+- ⏱️ Time Intelligence Functions – Trend analysis and year-over-year/month-over-month comparisons  
+- 🔮 Forecasting Tools – Applied Power BI’s built-in forecasting with confidence intervals  
+- 🎨 Data Visualization – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity  
+- 💼 Business Acumen – Combined retail domain understanding with analytics for actionable insights  
 
 6. Data Source
    The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks .
