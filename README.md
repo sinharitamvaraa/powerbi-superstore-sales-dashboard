@@ -4,6 +4,7 @@
    Transforming Retail Data into Actionable Insights with Power BI
 
 3. About the project 
+
    This project delivers an end-to-end Power BI Sales Dashboard designed to analyze and forecast retail superstore performance. The purpose of the dashboard is        to provide decision-makers with actionable insights by tracking KPIs such as sales, profit, orders, and shipping performance across regions, categories, and        customer segments. By integrating advanced data modeling, DAX calculations, and forecasting techniques, the project not only highlights past and present            business performance but also predicts future sales trends. The goal is to showcase how business intelligence and analytics can transform raw data into
    strategic decisions that improve profitability, optimize inventory, and strengthen market competitiveness.
 
@@ -19,11 +20,12 @@
 - 💼 Business Acumen – Combined retail domain understanding with analytics for actionable insights  
 
 6. Data Source
-   The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks .
+
+    The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks .
    It contains 4 years of transactional data from a fictional global superstore. Key fields include: Order ID, Order Date, Ship Date [Region, State, City],
    [Category, Sub-Category, Product Name] , [Sales, Quantity, Discount, Profit] which helps in performing various 
 
-7. Highlights of the Project
+8. Highlights of the Project
 
 - 📊 Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.  
 - 🌍 Performed regional, segment, category, and payment mode analysis to identify sales distribution.  
@@ -34,13 +36,14 @@
 - 🎯 Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.  
 
 8. Key Insights of the project 
+
       West region had the highest sales but weaker profit margins due to higher discounts.
       Furniture category underperformed compared to Technology and Office Supplies.
       Corporate customers drove higher revenue per order, while Consumers bought more frequently.
       Same-Day shipping increased costs disproportionately, reducing profitability.
       Sales forecasting projected a consistent upward trend in the next quarters.
 
-9. Business Impact
+10. Business Impact
 
 - ⚡ Helped identify low-profit categories where discount strategies must be revisited.  
 - 📦 Optimized supply chain planning by highlighting costly shipping practices.  
