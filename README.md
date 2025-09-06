@@ -9,7 +9,7 @@
    strategic decisions that improve profitability, optimize inventory, and strengthen market competitiveness.
 
 
-3. 🛠️ Tech Stack & Skills Used  
+3. Tech Stack & Skills Used  
    The dashboard was built using the following tech stack:
 
 - Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations  
