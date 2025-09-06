@@ -68,10 +68,13 @@ It contains 4 years of transactional data from a fictional global superstore.
 Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
 ![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
 
-Along with the sales forecasting visualization in Power BI:  
+## Sales forecasting view :  
 ![Sales Forecasting Visualization](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
 
-This map visualizes the sum of sales and profit across U.S. states, helping identify high-performing regions. Each bubble represents a state's total sales volume, with larger bubbles indicating higher revenue. When hovering over a state (e.g., California), a tooltip displays exact figures — California recorded the highest sales ($335K) and profit ($49K). This geographic breakdown supports regional performance comparisons and informs targeted regional strategies.
+## Sales & Profit by State Map
+This map visualizes the **sum of sales and profit across U.S. states**, helping identify high-performing regions. Each bubble represents a state's total sales volume, with larger bubbles indicating higher revenue. When hovering over a state (e.g., California), a tooltip displays exact figures — **California recorded the highest sales ($335K) and profit ($49K)**. This geographic breakdown supports regional performance comparisons and informs targeted regional strategies.
+
+![Sales and Profit by State](https://raw.githubusercontent.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/main/map-visual.jpg)
 
 
 ---
