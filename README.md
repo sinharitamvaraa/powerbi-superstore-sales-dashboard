@@ -23,14 +23,15 @@
    It contains 4 years of transactional data from a fictional global superstore. Key fields include: Order ID, Order Date, Ship Date [Region, State, City],
    [Category, Sub-Category, Product Name] , [Sales, Quantity, Discount, Profit] which helps in performing various 
 
-7. Highlights of the project
-   -📊 Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.
-   -🌍 Performed regional, segment, category, and payment mode analysis to identify sales distribution.
-   -📈 Implemented time-series analysis & forecasting to predict future sales trends with confidence intervals.
-   -🔍 Designed KPI cards for instant tracking of Orders, Sales, Profit, and Shipping performance.
-   -🗺️ Added a geospatial map to visualize sales and profit distribution across different U.S. states.
-   -⚡ Leveraged DAX measures and Power Query for advanced calculations and clean data modeling.
-   -🎯 Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.
+7. Highlights of the Project
+
+- 📊 Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.  
+- 🌍 Performed regional, segment, category, and payment mode analysis to identify sales distribution.  
+- 📈 Implemented time-series analysis & forecasting to predict future sales trends with confidence intervals.  
+- 🔍 Designed KPI cards for instant tracking of Orders, Sales, Profit, and Shipping performance.  
+- 🗺️ Added a geospatial map to visualize sales and profit distribution across different U.S. states.  
+- ⚡ Leveraged DAX measures and Power Query for advanced calculations and clean data modeling.  
+- 🎯 Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.  
 
 8. Key Insights of the project 
       West region had the highest sales but weaker profit margins due to higher discounts.
@@ -40,10 +41,11 @@
       Sales forecasting projected a consistent upward trend in the next quarters.
 
 9. Business Impact
-   -⚡ Helped identify low-profit categories where discount strategies must be revisited.
-   -📦 Optimized supply chain planning by highlighting costly shipping practices.
-   -🎯 Supported targeted marketing strategies by segmenting high-value customers.
-   -💰 Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.
+
+- ⚡ Helped identify low-profit categories where discount strategies must be revisited.  
+- 📦 Optimized supply chain planning by highlighting costly shipping practices.  
+- 🎯 Supported targeted marketing strategies by segmenting high-value customers.  
+- 💰 Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.  
 
 10. Screenshots
       Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
