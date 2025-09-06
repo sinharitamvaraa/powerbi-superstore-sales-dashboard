@@ -4,10 +4,11 @@
    Transforming Retail Data into Actionable Insights with Power BI
 
 3. About the project 
+
    This project delivers an end-to-end Power BI Sales Dashboard designed to analyze and forecast retail superstore performance. The purpose of the dashboard is        to provide decision-makers with actionable insights by tracking KPIs such as sales, profit, orders, and shipping performance across regions, categories, and        customer segments. By integrating advanced data modeling, DAX calculations, and forecasting techniques, the project not only highlights past and present            business performance but also predicts future sales trends. The goal is to showcase how business intelligence and analytics can transform raw data into
    strategic decisions that improve profitability, optimize inventory, and strengthen market competitiveness.
 
-4. 🛠️ Tech Stack & Skills Used  
+5. 🛠️ Tech Stack & Skills Used  
    The dashboard was built using the following tech stack:
 
 - ⚡ Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations  
