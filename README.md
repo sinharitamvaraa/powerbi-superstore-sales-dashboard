@@ -1,10 +1,7 @@
 ## powerbi-superstore-sales-dashboard
 
-### 1. Superstore Sales Forecasting & Business Intelligence Dashboard
-
+### Superstore Sales Forecasting & Business Intelligence Dashboard
 Transforming Retail Data into Actionable Insights with Power BI
-
----
 
 ### 1. About the Project 
 
