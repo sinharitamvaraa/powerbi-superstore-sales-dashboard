@@ -81,6 +81,10 @@ This panel highlights key performance indicators such as Orders, Sales, Profit, 
 
 ![KPI Panel and Region Slicers](https://raw.githubusercontent.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/main/kpi-panel%20and%20slicers%20.jpg)
 
+## Zoom Slider for Sales Trend Exploration
+This line chart visualizes the **daily sales trends** for **October and November 2020** with an interactive **zoom slider** at the bottom and sides. Users can narrow down specific date ranges by adjusting the slider, enabling a focused view of peaks, dips, or anomalies in sales over time. In the snapshot shown, hovering on **10 November 2020** reveals a spike in sales at **$4,758.55**, demonstrating how tooltips and zooming together enhance detailed time-series analysis.
+
+![Zoom Slider - Sales Over Time](https://raw.githubusercontent.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/main/zoom-slider.jpg)
 
 
 ---
