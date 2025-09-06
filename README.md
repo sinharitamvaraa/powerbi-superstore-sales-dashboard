@@ -9,13 +9,13 @@
 
 4. 🛠️ Tech Stack & Skills Used
    The dashboard was built using the following tech stack :
-  ⚡ Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations
-  📊 DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs
-  🧹 Data Transformation – Used Power Query for data cleaning and preparation
-  ⏱️ Time Intelligence Functions – Trend analysis and year-over-year/month-over-month comparisons
-  🔮 Forecasting Tools – Applied Power BI’s built-in forecasting with confidence intervals
-  🎨 Data Visualization – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity
-  💼 Business Acumen – Combined retail domain understanding with analytics for actionable insights
+  -⚡ Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations
+  -📊 DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs
+  -🧹 Data Transformation – Used Power Query for data cleaning and preparation
+  -⏱️ Time Intelligence Functions – Trend analysis and year-over-year/month-over-month comparisons
+  -🔮 Forecasting Tools – Applied Power BI’s built-in forecasting with confidence intervals
+  -🎨 Data Visualization – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity
+  -💼 Business Acumen – Combined retail domain understanding with analytics for actionable insights
 
 5. Data Source
    The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks .
@@ -23,13 +23,13 @@
    [Category, Sub-Category, Product Name] , [Sales, Quantity, Discount, Profit] which helps in performing various 
 
 6. Highlights of the project
-   📊 Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.
-   🌍 Performed regional, segment, category, and payment mode analysis to identify sales distribution.
-   📈 Implemented time-series analysis & forecasting to predict future sales trends with confidence intervals.
-   🔍 Designed KPI cards for instant tracking of Orders, Sales, Profit, and Shipping performance.
-   🗺️ Added a geospatial map to visualize sales and profit distribution across different U.S. states.
-   ⚡ Leveraged DAX measures and Power Query for advanced calculations and clean data modeling.
-   🎯 Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.
+   -📊 Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.
+   -🌍 Performed regional, segment, category, and payment mode analysis to identify sales distribution.
+   -📈 Implemented time-series analysis & forecasting to predict future sales trends with confidence intervals.
+   -🔍 Designed KPI cards for instant tracking of Orders, Sales, Profit, and Shipping performance.
+   -🗺️ Added a geospatial map to visualize sales and profit distribution across different U.S. states.
+   -⚡ Leveraged DAX measures and Power Query for advanced calculations and clean data modeling.
+   -🎯 Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.
 
 7. Key Insights of the project 
       West region had the highest sales but weaker profit margins due to higher discounts.
@@ -39,14 +39,14 @@
       Sales forecasting projected a consistent upward trend in the next quarters.
 
 8. Business Impact
-   ⚡ Helped identify low-profit categories where discount strategies must be revisited.
-   📦 Optimized supply chain planning by highlighting costly shipping practices.
-   🎯 Supported targeted marketing strategies by segmenting high-value customers.
-   💰 Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.
+   -⚡ Helped identify low-profit categories where discount strategies must be revisited.
+   -📦 Optimized supply chain planning by highlighting costly shipping practices.
+   -🎯 Supported targeted marketing strategies by segmenting high-value customers.
+   -💰 Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.
 
 9. Screenshots
       Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
       ![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
-      #Along with the sales forecasting visualization in Power BI:  
+      Along with the sales forecasting visualization in Power BI:  
       ![Sales Forecasting](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
 
