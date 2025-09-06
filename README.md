@@ -9,26 +9,31 @@ This project delivers an end-to-end Power BI Sales Dashboard designed to analyze
 
 
 
-##3. Tech Stack & Skills Used  
-   The dashboard was built using the following tech stack:
+### 3. Tech Stack & Skills Used
 
-- Power BI Desktop – Data modeling, interactive dashboards, and DAX calculations  
-- DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs  
-- Data Transformation – Used Power Query for data cleaning and preparation  
-- Time Intelligence Functions – Trend analysis and year-over-year/month-over-month comparisons  
-- Forecasting Tools – Applied Power BI’s built-in forecasting with confidence intervals  
-- Data Visualization – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity  
-- Business Acumen – Combined retail domain understanding with analytics for actionable insights  
+The dashboard was built using the following tech stack:
 
+- **Power BI Desktop** – Data modeling, interactive dashboards, and DAX calculations  
+- **DAX (Data Analysis Expressions)** – Created calculated columns, measures, and KPIs  
+- **Data Transformation** – Used Power Query for data cleaning and preparation  
+- **Time Intelligence Functions** – Trend analysis and year-over-year/month-over-month comparisons  
+- **Forecasting Tools** – Applied Power BI’s built-in forecasting with confidence intervals  
+- **Data Visualization** – Line charts, bar charts, maps, KPI cards, slicers, and filters for interactivity  
+- **Business Acumen** – Combined retail domain understanding with analytics for actionable insights  
 
-4. Data Source
+---
 
-    The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks .
-   It contains 4 years of transactional data from a fictional global superstore. Key fields include: Order ID, Order Date, Ship Date [Region, State, City],
-   [Category, Sub-Category, Product Name] , [Sales, Quantity, Discount, Profit] which helps in performing various 
+### 4. Data Source
 
+The dataset originates from Kaggle’s Superstore Sales dataset, a widely-used retail dataset ideal for business analytics and forecasting tasks.  
+It contains 4 years of transactional data from a fictional global superstore.
 
-5. Highlights of the Project
+**Key fields include:**  
+`Order ID`, `Order Date`, `Ship Date`, `Region`, `State`, `City`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount`, `Profit` — enabling rich analytics across various dimensions.
+
+---
+
+### 5. Highlights of the Project
 
 - Built an interactive Power BI dashboard for analyzing Superstore Sales and Profit.  
 - Performed regional, segment, category, and payment mode analysis to identify sales distribution.  
@@ -38,27 +43,36 @@ This project delivers an end-to-end Power BI Sales Dashboard designed to analyze
 - Leveraged DAX measures and Power Query for advanced calculations and clean data modeling.  
 - Delivered actionable business insights to support strategic decisions in marketing, inventory, and logistics.  
 
-6. Key Insights of the project 
+---
 
-      West region had the highest sales but weaker profit margins due to higher discounts.
-      Furniture category underperformed compared to Technology and Office Supplies.
-      Corporate customers drove higher revenue per order, while Consumers bought more frequently.
-      Same-Day shipping increased costs disproportionately, reducing profitability.
-      Sales forecasting projected a consistent upward trend in the next quarters.
+### 6. Key Insights of the Project
 
+- West region had the highest sales but weaker profit margins due to higher discounts.  
+- Furniture category underperformed compared to Technology and Office Supplies.  
+- Corporate customers drove higher revenue per order, while Consumers bought more frequently.  
+- Same-Day shipping increased costs disproportionately, reducing profitability.  
+- Sales forecasting projected a consistent upward trend in the next quarters.  
 
-7. Business Impact
+---
+
+### 7. Business Impact
 
 - Helped identify low-profit categories where discount strategies must be revisited.  
 - Optimized supply chain planning by highlighting costly shipping practices.  
 - Supported targeted marketing strategies by segmenting high-value customers.  
 - Enhanced overall profitability and strategic decision-making by aligning data insights with business goals.  
 
-8. Screenshots
+---
+### 8. Screenshots
 
-    Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
-    ![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
+Here’s how the interactive Superstore Sales Dashboard looks in Power BI:  
+![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
 
-    Along with the sales forecasting visualization in Power BI:  
-    ![Sales Forecasting](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
+Along with the sales forecasting visualization in Power BI:  
+![Sales Forecasting Visualization](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
+
+
+
+---
+
 
