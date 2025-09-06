@@ -71,17 +71,17 @@ Here’s how the interactive Superstore Sales Dashboard looks in Power BI:
 ## Sales forecasting view :  
 ![Sales Forecasting Visualization](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
 
-## Sales & Profit by State Map
+## Sales & Profit by State Map :
 This map visualizes the **sum of sales and profit across U.S. states**, helping identify high-performing regions. Each bubble represents a state's total sales volume, with larger bubbles indicating higher revenue. When hovering over a state (e.g., California), a tooltip displays exact figures — **California recorded the highest sales ($335K) and profit ($49K)**. This geographic breakdown supports regional performance comparisons and informs targeted regional strategies.
 
 ![Sales and Profit by State](https://raw.githubusercontent.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/main/map-visual.jpg)
 
-## KPI Metrics & Region Slicers
+## KPI Metrics & Region Slicers :
 This panel highlights key performance indicators such as Orders, Sales, Profit, and Shipping Days, all dynamically updated using the region slicer at the top. In the displayed snapshot, only the Central region is selected, so the KPIs and charts reflect region-specific performance — showing 5,239 orders, $341K in sales, and $27.45K in profit. The interactive slicer empowers users to toggle between regions (East, West, South, Central) or select multiple for comparison, making this dashboard both intuitive and analytically powerful.
 
 ![KPI Panel and Region Slicers](https://raw.githubusercontent.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/main/kpi-panel%20and%20slicers%20.jpg)
 
-## Zoom Slider for Sales Trend Exploration
+## Zoom Slider for Sales Trend Exploration :
 This visualization features two line charts showing sales trends from January 2019 to January 2021. The top chart displays the overall sales timeline, while the bottom chart uses an interactive zoom slider focused on **November 2020 to January 2021**. This zoom slider enables users to drill down into specific date ranges, revealing detailed daily sales fluctuations with peaks over 10K. Compared to earlier single-chart views, this setup provides both a broad overview and precise, focused analysis, enhancing the ability to explore sales patterns effectively.
 
 ![Zoom Slider - Sales Over Time](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/blob/main/zoom-slider.jpg)
