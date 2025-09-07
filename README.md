@@ -69,6 +69,8 @@ Here’s how the interactive Superstore Sales Dashboard looks in Power BI:
 ![Superstore Sales Dashboard](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20sales%20dashboard%20.jpg)
 
 ## Sales forecasting view :  
+The sales view chart shows the sum of sales by order date from January 2019 to early January 2021. Sales data appears highly volatile, with frequent spikes, particularly after mid-2020, suggesting increased transaction volumes or higher-value orders. A forecast for January 5, 2021 is also included, with an estimated sales value of 5,304.19 and a confidence interval ranging from 1,195.80 (lower bound) to 9,412.58 (upper bound). This forecast range indicates a high degree of variability and uncertainty in predicting future sales, reflecting the inconsistent sales pattern observed in the historical data.
+
 ![Sales Forecasting Visualization](https://github.com/sinharitamvaraa/powerbi-superstore-sales-dashboard/raw/main/snapshot%20of%20live%20sales%20forecast%20.jpg)
 
 ## Sales & Profit by State Map :
